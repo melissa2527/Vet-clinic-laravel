@@ -3,6 +3,9 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
+use App\Models\Client;
+use App\Models\Pet;
+use DB;
 
 class StHectorsDataSeeder extends Seeder
 {
